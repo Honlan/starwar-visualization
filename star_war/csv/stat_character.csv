@@ -1,0 +1,87 @@
+name,height,mass,gender,homeworld
+Luke Skywalker,172,77,male,http://swapi.co/api/planets/1/
+C-3PO,167,75,n/a,http://swapi.co/api/planets/1/
+R2-D2,96,32,n/a,http://swapi.co/api/planets/8/
+Darth Vader,202,136,male,http://swapi.co/api/planets/1/
+Leia Organa,150,49,female,http://swapi.co/api/planets/2/
+Owen Lars,178,120,male,http://swapi.co/api/planets/1/
+Beru Whitesun lars,165,75,female,http://swapi.co/api/planets/1/
+R5-D4,97,32,n/a,http://swapi.co/api/planets/1/
+Biggs Darklighter,183,84,male,http://swapi.co/api/planets/1/
+Obi-Wan Kenobi,182,77,male,http://swapi.co/api/planets/20/
+Wilhuff Tarkin,180,-1,male,http://swapi.co/api/planets/21/
+Chewbacca,228,112,male,http://swapi.co/api/planets/14/
+Han Solo,180,80,male,http://swapi.co/api/planets/22/
+Greedo,173,74,male,http://swapi.co/api/planets/23/
+Wedge Antilles,170,77,male,http://swapi.co/api/planets/22/
+Jek Tono Porkins,180,110,male,http://swapi.co/api/planets/26/
+Raymus Antilles,188,79,male,http://swapi.co/api/planets/2/
+Yoda,66,17,male,http://swapi.co/api/planets/28/
+Palpatine,170,75,male,http://swapi.co/api/planets/8/
+Boba Fett,183,78.2,male,http://swapi.co/api/planets/10/
+IG-88,200,140,n/a,http://swapi.co/api/planets/28/
+Bossk,190,113,male,http://swapi.co/api/planets/29/
+Lando Calrissian,177,79,male,http://swapi.co/api/planets/30/
+Lobot,175,79,male,http://swapi.co/api/planets/6/
+Bib Fortuna,180,-1,male,http://swapi.co/api/planets/37/
+Ackbar,180,83,male,http://swapi.co/api/planets/31/
+Mon Mothma,150,-1,female,http://swapi.co/api/planets/32/
+Arvel Crynyd,-1,-1,male,http://swapi.co/api/planets/28/
+Wicket Systri Warrick,88,20,male,http://swapi.co/api/planets/7/
+Nien Nunb,160,68,male,http://swapi.co/api/planets/33/
+Anakin Skywalker,188,84,male,http://swapi.co/api/planets/1/
+Qui-Gon Jinn,193,89,male,http://swapi.co/api/planets/28/
+Nute Gunray,191,90,male,http://swapi.co/api/planets/18/
+Finis Valorum,170,-1,male,http://swapi.co/api/planets/9/
+Padmé Amidala,165,45,female,http://swapi.co/api/planets/8/
+Jar Jar Binks,196,66,male,http://swapi.co/api/planets/8/
+Roos Tarpals,224,82,male,http://swapi.co/api/planets/8/
+Rugor Nass,206,-1,male,http://swapi.co/api/planets/8/
+Ric Olié,183,-1,male,http://swapi.co/api/planets/8/
+Watto,137,-1,male,http://swapi.co/api/planets/34/
+Sebulba,112,40,male,http://swapi.co/api/planets/35/
+Quarsh Panaka,183,-1,male,http://swapi.co/api/planets/8/
+Shmi Skywalker,163,-1,female,http://swapi.co/api/planets/1/
+Darth Maul,175,80,male,http://swapi.co/api/planets/36/
+Ayla Secura,178,55,female,http://swapi.co/api/planets/37/
+Ratts Tyerell,79,15,male,http://swapi.co/api/planets/38/
+Dud Bolt,94,45,male,http://swapi.co/api/planets/39/
+Gasgano,122,-1,male,http://swapi.co/api/planets/40/
+Ben Quadinaros,163,65,male,http://swapi.co/api/planets/41/
+Mace Windu,188,84,male,http://swapi.co/api/planets/42/
+Ki-Adi-Mundi,198,82,male,http://swapi.co/api/planets/43/
+Kit Fisto,196,87,male,http://swapi.co/api/planets/44/
+Eeth Koth,171,-1,male,http://swapi.co/api/planets/45/
+Adi Gallia,184,50,female,http://swapi.co/api/planets/9/
+Saesee Tiin,188,-1,male,http://swapi.co/api/planets/47/
+Yarael Poof,264,-1,male,http://swapi.co/api/planets/48/
+Plo Koon,188,80,male,http://swapi.co/api/planets/49/
+Mas Amedda,196,-1,male,http://swapi.co/api/planets/50/
+Gregar Typho,185,85,male,http://swapi.co/api/planets/8/
+Cordé,157,-1,female,http://swapi.co/api/planets/8/
+Cliegg Lars,183,-1,male,http://swapi.co/api/planets/1/
+Poggle the Lesser,183,80,male,http://swapi.co/api/planets/11/
+Luminara Unduli,170,56.2,female,http://swapi.co/api/planets/51/
+Barriss Offee,166,50,female,http://swapi.co/api/planets/51/
+Dormé,165,-1,female,http://swapi.co/api/planets/8/
+Dooku,193,80,male,http://swapi.co/api/planets/52/
+Bail Prestor Organa,191,-1,male,http://swapi.co/api/planets/2/
+Jango Fett,183,79,male,http://swapi.co/api/planets/53/
+Zam Wesell,168,55,female,http://swapi.co/api/planets/54/
+Dexter Jettster,198,102,male,http://swapi.co/api/planets/55/
+Lama Su,229,88,male,http://swapi.co/api/planets/10/
+Taun We,213,-1,female,http://swapi.co/api/planets/10/
+Jocasta Nu,167,-1,female,http://swapi.co/api/planets/9/
+R4-P17,96,-1,female,http://swapi.co/api/planets/28/
+Wat Tambor,193,48,male,http://swapi.co/api/planets/56/
+San Hill,191,-1,male,http://swapi.co/api/planets/57/
+Shaak Ti,178,57,female,http://swapi.co/api/planets/58/
+Sly Moore,178,48,female,http://swapi.co/api/planets/60/
+Grievous,216,159,male,http://swapi.co/api/planets/59/
+Tarfful,234,136,male,http://swapi.co/api/planets/14/
+Tion Medon,206,80,male,http://swapi.co/api/planets/12/
+Finn,-1,-1,male,http://swapi.co/api/planets/28/
+Rey,-1,-1,female,http://swapi.co/api/planets/28/
+Poe Dameron,-1,-1,male,http://swapi.co/api/planets/28/
+BB8,-1,-1,n/a,http://swapi.co/api/planets/28/
+Captain Phasma,-1,-1,female,http://swapi.co/api/planets/28/

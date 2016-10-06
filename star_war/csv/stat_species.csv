@@ -1,0 +1,38 @@
+name,height,lifespan,classification
+Rodian,170,-1,sentient
+Hutt,300,1000,gastropod
+Wookiee,210,400,mammal
+Droid,-1,-1,artificial
+Human,180,120,mammal
+Yoda's species,66,900,mammal
+Trandoshan,200,-1,reptile
+Mon Calamari,160,-1,amphibian
+Ewok,100,-1,mammal
+Sullustan,180,-1,mammal
+Twi'lek,200,-1,mammal
+Neimodian,180,-1,unknown
+Gungan,190,-1,amphibian
+Toydarian,120,91,mammal
+Dug,100,-1,mammal
+Aleena,80,79,reptile
+Vulptereen,100,-1,unknown
+Xexto,125,-1,unknown
+Toong,200,-1,unknown
+Cerean,200,-1,mammal
+Nautolan,180,70,amphibian
+Zabrak,180,-1,mammal
+Tholothian,-1,-1,mammal
+Iktotchi,180,-1,unknown
+Quermian,240,86,mammal
+Kel Dor,180,70,unknown
+Chagrian,190,-1,amphibian
+Geonosian,178,-1,insectoid
+Mirialan,180,-1,mammal
+Clawdite,180,70,reptile
+Besalisk,178,75,amphibian
+Kaminoan,220,80,amphibian
+Skakoan,-1,-1,mammal
+Muun,190,100,mammal
+Togruta,180,94,mammal
+Kaleesh,170,80,reptile
+Pau'an,190,700,mammal

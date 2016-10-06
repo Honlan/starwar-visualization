@@ -1,0 +1,36 @@
+title,key,value
+A New Hope,characters,18
+A New Hope,planets,3
+A New Hope,starships,8
+A New Hope,vehicles,4
+A New Hope,species,5
+The Empire Strikes Back,characters,16
+The Empire Strikes Back,planets,4
+The Empire Strikes Back,starships,9
+The Empire Strikes Back,vehicles,6
+The Empire Strikes Back,species,5
+Return of the Jedi,characters,20
+Return of the Jedi,planets,5
+Return of the Jedi,starships,12
+Return of the Jedi,vehicles,8
+Return of the Jedi,species,9
+The Phantom Menace,characters,34
+The Phantom Menace,planets,3
+The Phantom Menace,starships,5
+The Phantom Menace,vehicles,7
+The Phantom Menace,species,20
+Attack of the Clones,characters,40
+Attack of the Clones,planets,5
+Attack of the Clones,starships,9
+Attack of the Clones,vehicles,11
+Attack of the Clones,species,14
+Revenge of the Sith,characters,34
+Revenge of the Sith,planets,13
+Revenge of the Sith,starships,12
+Revenge of the Sith,vehicles,13
+Revenge of the Sith,species,20
+The Force Awakens,characters,11
+The Force Awakens,planets,1
+The Force Awakens,starships,2
+The Force Awakens,vehicles,0
+The Force Awakens,species,3
