@@ -163,9 +163,7 @@ body {
     <svg width="960" height="240" id="svg2" style="margin-right:60px;">
         <g></g>
     </svg>
-    <svg width="960" height="240">
-        <g></g>
-    </svg>
+    <!--这里我把多余的一个svg去掉了-->
 </div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
@@ -454,6 +452,11 @@ $(document).ready(function() {
     d3.json("timeline.json", function(error, data) {
         var height2 = 240 - 40;
         var width2 = 960;
+
+        // 视频中打印不出来，是因为我改动的是下载文件夹中的项目
+        // 而并不是在MAMP服务器路径中的项目……
+        console.log(data);
+
         d3.select('#svg2 g').selectAll('text.film').data(data['films']).enter().append('text').text(function(d) {
             return d[0];
         }).attr('transform', function(d, i) {
